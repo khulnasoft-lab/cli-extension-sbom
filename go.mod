@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/cli-extension-sbom
 
-go 1.21.6
+go 1.22.1
 
 require (
 	github.com/golang/mock v1.6.0
